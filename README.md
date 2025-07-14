@@ -83,4 +83,6 @@ Ce projet propose un système complet de génération automatique de description
 ---
 
 **Auteurs** :  
-Projet d'extraction et de génération de captions vidéo avec Deep Learning.
+- [WAM (3lallah Grpoup)](https://github.com/walid-moussa55)
+- [Mimoun Ouhda (3lallah Grpoup)](https://github.com/mimounouhd)
+- [Yassin Boujnan (3lallah Grpoup)]()
