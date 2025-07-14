@@ -85,4 +85,4 @@ Ce projet propose un système complet de génération automatique de description
 **Auteurs** :  
 - [WAM (3lallah Group)](https://github.com/walid-moussa55)
 - [Mimoun Ouhda (3lallah Group)](https://github.com/mimounouhd)
-- [Yassin Boujnan (3lallah Group)]()
+- [Yassin Boujnan (3lallah Group)](https://github.com/boujnan03)
